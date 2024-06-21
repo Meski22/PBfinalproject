@@ -1,0 +1,48 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "financial_loan",
+          "nodeLineageTag": "c20822e0-0c73-4ad2-b451-dce798a55911",
+          "size": {
+            "height": 384,
+            "width": 249
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 438,
+            "y": 69
+          },
+          "nodeIndex": "Calander",
+          "nodeLineageTag": "40a1fb85-2a8e-4bbb-bf43-f6a0cee68778",
+          "size": {
+            "height": 200,
+            "width": 264
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 84.6441947565543,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
